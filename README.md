@@ -1,1 +1,18 @@
-# ignite-feed-ts
+# Ignite Feed
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img src="images/Home.png" alt="exemplo imagem">
+
+> Projeto simples para aprender principais conceitos e fazer uma breve introdução ao [🔗 React](https://pt-br.legacy.reactjs.org/docs/getting-started.html), utilizando TypeScript, através do curso Ignite da [🔗 Rocketseat](https://www.rocketseat.com.br/ignite).
+
+## 🚀 Instalando o Ignite Feed
+
+Para instalar o ignite-feed, siga estas etapas:
+
+```
+npm install
+```
+
+```
+npm run dev
+```
